@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rudra Narayan Panda</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align="right" alt="Coding" width="400" src="[https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif](https://www.cleverfond.com/wp-content/uploads/2022/01/46207-programmer-1.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrapanda257&label=Profile%20views&color=0e75b6&style=flat" alt="rudrapanda257" /> </p>
 
