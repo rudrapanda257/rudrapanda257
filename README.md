@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rudra Narayan Panda</h1>
 [![MasterHead](https://pixy.org/src2/576/thumbs350/5761753.jpg)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Rudra Narayan Panda</h1>
 
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
